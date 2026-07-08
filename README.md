@@ -158,25 +158,18 @@ Built the RESTful API layer integrating MongoDB for scalable data handling acros
 
 ## `05` Experience
 
-**Full Stack Engineer** · Drishti IAS
-`May 2026 — Present`
+**Content Developer** · Drishti IAS · Delhi, India
+`July 2024 — May 2025 (9 months)`
 
-Contributing to full-stack engineering efforts across backend and frontend systems as part of a hands-on transition into professional software development.
+Developed structured educational content requiring strong analytical rigor, research discipline, and clear communication — a non-technical role that now informs clear technical documentation and problem breakdown in engineering work.
 
-- Building and maintaining web application features using Java, Spring Boot, and React.js
-- Applying REST API design and secure authentication practices in production-oriented workflows
-- Collaborating within Agile/Scrum development cycles
-
-`Java` `Spring Boot` `React.js` `REST APIs` `Agile`
+`Content Strategy` `Research` `Communication`
 
 <br/>
 
-**Content Developer** · Delhi, India
-`July 2024 — May 2025`
-
-Developed structured content requiring strong analytical and communication skills — foundational experience that now informs clear technical documentation and problem breakdown in engineering work.
-
-`Content Strategy` `Research` `Communication`
+<div align="center">
+<i>Currently transitioning into software engineering via CDAC's PG Diploma in Advanced Computing — actively building full-stack projects (see Featured Projects above) to establish hands-on engineering experience.</i>
+</div>
 
 <br/>
 
@@ -188,42 +181,25 @@ Developed structured content requiring strong analytical and communication skill
 |---|---|
 | 🎓 **CDAC PG Diploma** | Advanced Computing, Computer Science / Software Engineering |
 | 🏗️ **CodeHive** | Built a real-time collaborative code editor with WebSocket-based sync |
-| 🔐 **Secure Full-Stack Delivery** | Shipped JWT + RBAC secured e-commerce platform end-to-end |
-| 💳 **Payment Integration** | Delivered production-style Stripe payment flow with live order tracking |
+| 🔐 **Secure Application Design** | Built JWT + RBAC secured e-commerce platform as a personal project |
+| 💳 **Payment Integration** | Implemented Stripe payment flow with live order tracking in a personal project |
 
 </div>
 
 <br/>
 
-## `07` Certifications
+## `07` Coding Profiles
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Java%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<br/><i>Add credential links as they are completed</i>
+<a href="https://leetcode.com/u/Rishabhupwanshi/"><img src="https://img.shields.io/badge/LeetCode-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/rishabh_upwansh1"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## `08` Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/rishabhupwanshi"><img src="https://img.shields.io/badge/LeetCode-6d28d9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/rishabhupwanshi"><img src="https://img.shields.io/badge/GeeksforGeeks-4c1d95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/rishabhupwanshi"><img src="https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/rishabhupwanshi"><img src="https://img.shields.io/badge/CodeChef-7c3aed?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## `09` GitHub Analytics
+## `08` GitHub Analytics
 
 <div align="center">
 
@@ -236,7 +212,7 @@ Developed structured content requiring strong analytical and communication skill
 
 <br/>
 
-## `10` GitHub Trophies
+## `09` GitHub Trophies
 
 <div align="center">
 
@@ -246,7 +222,7 @@ Developed structured content requiring strong analytical and communication skill
 
 <br/>
 
-## `11` Contribution Activity
+## `10` Contribution Activity
 
 <div align="center">
 
@@ -256,7 +232,7 @@ Developed structured content requiring strong analytical and communication skill
 
 <br/>
 
-## `12` Contribution Snake
+## `11` Contribution Snake
 
 <div align="center">
 
@@ -266,7 +242,7 @@ Developed structured content requiring strong analytical and communication skill
 
 <br/>
 
-## `13` Current Focus
+## `12` Current Focus
 
 ```yaml
 current_focus:
@@ -288,7 +264,7 @@ current_focus:
 
 <br/>
 
-## `14` Connect With Me
+## `13` Connect With Me
 
 <div align="center">
 
